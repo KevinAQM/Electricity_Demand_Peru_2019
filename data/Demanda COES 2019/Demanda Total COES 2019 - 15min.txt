@@ -1,0 +1,9 @@
+DEMANDA TOTAL COES 2019 - 15MIN
+
+- Se obtiene fusionando los archivos: "Generación Total COES 2019 - 15min" + "Intercambios COES 2019 - 15min"
+
+- Del archivo "Generación Total COES 2019 - 15min" se usa la segunda columna.
+
+- Del archivo "Intercambios COES 2019 - 15min" solo se usan la 4ta y la 5ta columna puesto que están convertidas a unidades de potencia [MW].
+
+- Se obtiene la Demanda Total para cada instante de tiempo.
